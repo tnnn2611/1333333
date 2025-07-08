@@ -34,6 +34,6 @@
 高速播放：我们优化了视频加载速度，确保无论你身处何地，都能享受极速流畅的播放体验。
 
 无需注册：不需要填写任何个人信息，只需点击，即可观看。
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] ( https://github.com/tnnn2611/1333333 ）</span>
 
 
